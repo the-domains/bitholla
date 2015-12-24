@@ -1,7 +1,7 @@
 name: Bitholla
 favicon: null
-layout_spectrum: 0.09414620534516871
-typography_spectrum: 0.18055123556405306
+layout_spectrum: 0
+typography_spectrum: 0.53902
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.07007447839714587
+  brandStrength: 0
   lightness: 0.4094774005934596
   saturation: 0.2576236475724727
   rhythmicContrast: 0.4972771343309432
